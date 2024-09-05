@@ -139,8 +139,8 @@ function Description() {
     <StyledDescription>
       <m.div variants={varFade().in}>
         <Typography variant="h2" sx={{ textAlign: 'center' }}>
-          Get a Personalized Song <br />
-          Bear - For your child
+          Get fantastic Graphs <br />
+          with Powerful AI Tool
         </Typography>
       </m.div>
 
@@ -154,7 +154,7 @@ function Description() {
             repeat: Infinity,
           }}
         >
-          CreatoorAI
+          AI-Analytics
         </StyledGradientText>
       </m.div>
 
