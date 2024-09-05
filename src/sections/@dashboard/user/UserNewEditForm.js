@@ -27,7 +27,7 @@ export default function UserNewEditForm({ userData }) {
   const { enqueueSnackbar } = useSnackbar();
 
   const NewUserSchema = Yup.object().shape({
-    name: Yup.string().required('Baby Name is required'),
+    name: Yup.string().required('File Name is required'),
     appearance: Yup.string().required('appearance is required'),
     personality: Yup.string().required('personality is required'),
     feature: Yup.string().required('feature is required'),
