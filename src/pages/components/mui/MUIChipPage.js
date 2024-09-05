@@ -14,7 +14,7 @@ export default function MUIChipPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Chip | CreatoorAI</title>
+        <title> MUI Components: Chip | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

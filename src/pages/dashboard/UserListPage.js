@@ -196,7 +196,7 @@ export default function UserListPage() {
   return (
     <>
       <Helmet>
-        <title> User: List | CreatoorAI</title>
+        <title> User: List | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

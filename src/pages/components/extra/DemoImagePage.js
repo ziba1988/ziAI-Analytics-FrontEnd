@@ -22,7 +22,7 @@ export default function DemoImagePage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Image | CreatoorAI</title>
+        <title> Extra Components: Image | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

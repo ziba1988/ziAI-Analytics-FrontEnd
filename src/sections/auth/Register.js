@@ -13,7 +13,7 @@ import AuthRegisterForm from './AuthRegisterForm';
 
 export default function Register() {
   return (
-    <LoginLayout title="Feel free to create Music for you and your baby">
+    <LoginLayout title="Feel free to analyze your complex data">
       <Stack spacing={2} sx={{ mb: 5, position: 'relative' }}>
         <Typography variant="h4">Get started absolutely free.</Typography>
 

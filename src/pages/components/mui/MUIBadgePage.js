@@ -16,7 +16,7 @@ export default function MUIBadgePage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Badge | CreatoorAI</title>
+        <title> MUI Components: Badge | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

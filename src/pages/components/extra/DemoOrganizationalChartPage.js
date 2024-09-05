@@ -20,7 +20,7 @@ export default function DemoOrganizationalChartPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Organizational Chart | CreatoorAI</title>
+        <title> Extra Components: Organizational Chart | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

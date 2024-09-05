@@ -73,7 +73,7 @@ export default function MUISliderPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Slider | CreatoorAI</title>
+        <title> MUI Components: Slider | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

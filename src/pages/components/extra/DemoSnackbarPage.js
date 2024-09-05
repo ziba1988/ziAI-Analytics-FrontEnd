@@ -52,7 +52,7 @@ export default function DemoSnackbarPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Snackbar | CreatoorAI</title>
+        <title> Extra Components: Snackbar | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

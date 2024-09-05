@@ -34,7 +34,7 @@ export default function PaymentSuccess() {
   return (
     <>
       <Helmet>
-        <title> Payment successful | CreatoorAI</title>
+        <title> Payment successful | AI-ANALYTICS</title>
       </Helmet>
 
       <MotionContainer>

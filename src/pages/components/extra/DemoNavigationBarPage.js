@@ -20,7 +20,7 @@ export default function DemoNavigationBarPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Navigation Bar | CreatoorAI</title>
+        <title> Extra Components: Navigation Bar | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

@@ -20,7 +20,7 @@ export default function DemoLabelPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Label | CreatoorAI</title>
+        <title> Extra Components: Label | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

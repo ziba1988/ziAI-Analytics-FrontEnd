@@ -43,7 +43,7 @@ export default function MUIButtonsPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Buttons | CreatoorAI</title>
+        <title> MUI Components: Buttons | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

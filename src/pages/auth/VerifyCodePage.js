@@ -17,7 +17,7 @@ export default function VerifyCodePage() {
   return (
     <>
       <Helmet>
-        <title> Verify Code | CreatoorAI</title>
+        <title> Verify Code | AI-ANALYTICS</title>
       </Helmet>
 
       <EmailInboxIcon sx={{ mb: 5, height: 96 }} />

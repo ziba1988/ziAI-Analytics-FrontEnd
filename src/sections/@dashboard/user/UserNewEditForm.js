@@ -102,19 +102,10 @@ export default function UserNewEditForm({ userData }) {
         <Grid item xs={12} md={12}>
           <Card sx={{ p: 3 }}>
             <Typography variant="h4" gutterBottom>
-              Answer the questions
+              Upload your File
             </Typography>
             <Stack spacing={2} alignItems="center" sx={{ mt: 3 }}>
               <RHFTextField name="name" label="Name of child" />
-              <RHFTextField name="appearance" label="Appearance of child" />
-              <RHFTextField name="personality" label="Personality of child" />
-              <RHFTextField name="feature" label="Things only you know about your child" />
-              <RHFTextField name="special" label="Any other special things to mention" />
-              <RHFTextField
-                name="perspective"
-                label="Perspective (whose perspective the song is written from)"
-              />
-              <RHFTextField name="singer" label="Male or Female Singer" />
 
               <Stack
                 alignItems="center"
@@ -135,7 +126,7 @@ export default function UserNewEditForm({ userData }) {
                   loading={isSubmitting}
                   sx={{ width: '100%' }}
                 >
-                  Make My Baby Happy
+                  Upload
                 </LoadingButton>
               </Stack>
             </Stack>

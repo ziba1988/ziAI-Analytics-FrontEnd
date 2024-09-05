@@ -64,7 +64,7 @@ export default function DemoLightboxPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Lightbox | CreatoorAI</title>
+        <title> Extra Components: Lightbox | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

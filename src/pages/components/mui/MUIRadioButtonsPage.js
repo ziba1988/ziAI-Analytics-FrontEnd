@@ -37,7 +37,7 @@ export default function MUIRadioButtonsPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Radio Buttons | CreatoorAI</title>
+        <title> MUI Components: Radio Buttons | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

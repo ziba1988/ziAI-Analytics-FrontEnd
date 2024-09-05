@@ -11,18 +11,18 @@ import { MotionViewport, varFade } from '../../components/animate';
 const CARDS = [
   {
     icon: ' /assets/icons/home/ic_make_brand.svg',
-    title: 'Branding',
+    title: 'Data Cleaning',
     description: 'Consistent design makes it easy to brand your own.',
   },
   {
     icon: ' /assets/icons/home/ic_design.svg',
-    title: 'UI & UX Design',
+    title: 'Data Analysis',
     description:
       'The kit is built on the principles of the atomic design system. It helps you to create projects fastest and easily customized packages for your projects.',
   },
   {
     icon: ' /assets/icons/home/ic_development.svg',
-    title: 'Development',
+    title: 'Data Visualization',
     description: 'Easy to customize and extend, saving you time and money.',
   },
 ];
@@ -58,13 +58,13 @@ export default function HomeMinimal() {
         >
           <m.div variants={varFade().inUp}>
             <Typography component="div" variant="overline" sx={{ color: 'text.disabled' }}>
-              CreatoorAI
+              AI-ANALYTICS
             </Typography>
           </m.div>
 
           <m.div variants={varFade().inDown}>
             <Typography variant="h2">
-              What minimal <br /> helps you?
+              What AI-Analytic <br /> helps you?
             </Typography>
           </m.div>
         </Stack>

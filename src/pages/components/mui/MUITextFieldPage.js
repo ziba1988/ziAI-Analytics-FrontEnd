@@ -26,7 +26,7 @@ export default function MUITextFieldPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Textfield | CreatoorAI</title>
+        <title> MUI Components: Textfield | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

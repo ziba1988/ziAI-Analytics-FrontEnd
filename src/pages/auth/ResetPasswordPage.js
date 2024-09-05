@@ -17,7 +17,7 @@ export default function ResetPasswordPage() {
   return (
     <>
       <Helmet>
-        <title> Reset Password | CreatoorAI</title>
+        <title> Reset Password | AI-ANALYTICS</title>
       </Helmet>
 
       <PasswordIcon sx={{ mb: 5, height: 96 }} />

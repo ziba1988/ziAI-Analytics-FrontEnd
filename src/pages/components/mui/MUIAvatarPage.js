@@ -33,7 +33,7 @@ export default function MUIAvatarPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Avatar | CreatoorAI</title>
+        <title> MUI Components: Avatar | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

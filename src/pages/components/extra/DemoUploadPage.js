@@ -81,7 +81,7 @@ export default function DemoUploadPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Upload | CreatoorAI</title>
+        <title> Extra Components: Upload | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

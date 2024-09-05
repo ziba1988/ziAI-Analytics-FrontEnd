@@ -28,7 +28,7 @@ export default function GeneralAppPage() {
   return (
     <>
       <Helmet>
-        <title> General: App | CreatoorAI</title>
+        <title> General: App | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'xl'}>

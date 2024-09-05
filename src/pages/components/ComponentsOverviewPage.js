@@ -13,7 +13,7 @@ export default function ComponentsOverviewPage() {
   return (
     <>
       <Helmet>
-        <title> Components Overview | CreatoorAI</title>
+        <title> Components Overview | AI-ANALYTICS</title>
       </Helmet>
 
       <ComponentHero />

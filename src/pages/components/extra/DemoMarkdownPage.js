@@ -122,7 +122,7 @@ export default function DemoMarkdownPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Markdown | CreatoorAI</title>
+        <title> Extra Components: Markdown | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

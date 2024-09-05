@@ -44,7 +44,7 @@ export default function DemoMultiLanguagePage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Multi Language | CreatoorAI</title>
+        <title> Extra Components: Multi Language | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

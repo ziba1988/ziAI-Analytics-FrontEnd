@@ -17,7 +17,7 @@ export default function MUITablePage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Table | CreatoorAI</title>
+        <title> MUI Components: Table | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

@@ -46,7 +46,7 @@ export default function MUICheckboxPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Checkbox | CreatoorAI</title>
+        <title> MUI Components: Checkbox | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

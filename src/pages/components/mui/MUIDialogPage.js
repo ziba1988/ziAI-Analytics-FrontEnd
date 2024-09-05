@@ -30,7 +30,7 @@ export default function MUIDialogPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Dialog | CreatoorAI</title>
+        <title> MUI Components: Dialog | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

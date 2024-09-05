@@ -74,7 +74,7 @@ export default function UserProfilePage() {
   return (
     <>
       <Helmet>
-        <title> User: Profile | CreatoorAI</title>
+        <title> User: Profile | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

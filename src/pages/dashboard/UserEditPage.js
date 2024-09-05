@@ -25,7 +25,7 @@ export default function UserEditPage() {
   return (
     <>
       <Helmet>
-        <title> User: Edit user | CreatoorAI</title>
+        <title> User: Edit user | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

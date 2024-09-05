@@ -33,7 +33,7 @@ export default function MUIDataGridPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: DataGrid | CreatoorAI</title>
+        <title> MUI Components: DataGrid | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

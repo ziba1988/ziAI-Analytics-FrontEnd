@@ -11,7 +11,7 @@ export default function UserCreatePage() {
   return (
     <>
       <Helmet>
-        <title> Music: Generate a Music | CreatoorAI</title>
+        <title> Music: Generate a Music | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

@@ -25,7 +25,7 @@ export default function MUITransferListPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Transfer List | CreatoorAI</title>
+        <title> MUI Components: Transfer List | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

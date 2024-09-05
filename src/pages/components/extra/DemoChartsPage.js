@@ -27,7 +27,7 @@ export default function DemoChartsPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Charts | CreatoorAI</title>
+        <title> Extra Components: Charts | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

@@ -12,7 +12,7 @@ export default function HomePage() {
   return (
     <>
       <Helmet>
-        <title> Landing Page | CreatoorAI</title>
+        <title> Landing Page | AI-ANALYTICS</title>
       </Helmet>
 
       <ScrollProgress />

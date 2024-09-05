@@ -20,7 +20,7 @@ export default function MUIAlertPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Alert | CreatoorAI</title>
+        <title> MUI Components: Alert | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

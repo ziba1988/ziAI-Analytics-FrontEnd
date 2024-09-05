@@ -8,7 +8,7 @@ export default function RegisterPage() {
   return (
     <>
       <Helmet>
-        <title> Register | CreatoorAI</title>
+        <title> Register | AI-ANALYTICS</title>
       </Helmet>
 
       <Register />

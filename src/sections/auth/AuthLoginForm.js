@@ -25,7 +25,7 @@ export default function AuthLoginForm() {
   });
 
   const defaultValues = {
-    email: 'demo@creatoor.ai',
+    email: 'demo@ai-analytics.ai',
     password: 'demo1234',
   };
 

@@ -72,7 +72,7 @@ export default function MUITabsPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Tabs | CreatoorAI</title>
+        <title> MUI Components: Tabs | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

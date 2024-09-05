@@ -64,7 +64,7 @@ export default function MUIProgressPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Progress | CreatoorAI</title>
+        <title> MUI Components: Progress | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

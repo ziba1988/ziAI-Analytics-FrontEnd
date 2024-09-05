@@ -56,7 +56,7 @@ export default function DemoMapPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Map | CreatoorAI</title>
+        <title> Extra Components: Map | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

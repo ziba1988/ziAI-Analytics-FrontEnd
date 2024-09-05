@@ -13,7 +13,7 @@ export default function DemoScrollbarPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Scrollbar | CreatoorAI</title>
+        <title> Extra Components: Scrollbar | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

@@ -29,7 +29,7 @@ export default function MUISwitchPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Switch | CreatoorAI</title>
+        <title> MUI Components: Switch | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

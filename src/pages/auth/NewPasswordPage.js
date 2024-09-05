@@ -17,7 +17,7 @@ export default function NewPasswordPage() {
   return (
     <>
       <Helmet>
-        <title> New Password | CreatoorAI</title>
+        <title> New Password | AI-ANALYTICS</title>
       </Helmet>
 
       <SentIcon sx={{ mb: 5, height: 96 }} />

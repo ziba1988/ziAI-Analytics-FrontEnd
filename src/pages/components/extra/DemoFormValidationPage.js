@@ -29,7 +29,7 @@ export default function DemoFormValidationPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Form Validation | CreatoorAI</title>
+        <title> Extra Components: Form Validation | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

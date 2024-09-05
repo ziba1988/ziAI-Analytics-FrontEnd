@@ -87,7 +87,7 @@ export default function MUIListPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: List | CreatoorAI</title>
+        <title> MUI Components: List | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

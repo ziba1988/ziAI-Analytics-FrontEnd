@@ -14,7 +14,7 @@ export default function PaymentCancel() {
   return (
     <>
       <Helmet>
-        <title> Payment Cancel | CreatoorAI</title>
+        <title> Payment Cancel | AI-ANALYTICS</title>
       </Helmet>
 
       <MotionContainer>

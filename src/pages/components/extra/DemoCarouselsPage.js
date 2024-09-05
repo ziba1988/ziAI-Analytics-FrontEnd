@@ -34,7 +34,7 @@ export default function DemoCarouselsPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Carousels | CreatoorAI</title>
+        <title> Extra Components: Carousels | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

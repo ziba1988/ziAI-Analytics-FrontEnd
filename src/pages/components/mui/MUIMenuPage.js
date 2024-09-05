@@ -92,7 +92,7 @@ export default function MUIMenuPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Menu | CreatoorAI</title>
+        <title> MUI Components: Menu | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

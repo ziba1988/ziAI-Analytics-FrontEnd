@@ -58,7 +58,7 @@ export default function DemoCopyToClipboardPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Copy To Clipboard | CreatoorAI</title>
+        <title> Extra Components: Copy To Clipboard | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

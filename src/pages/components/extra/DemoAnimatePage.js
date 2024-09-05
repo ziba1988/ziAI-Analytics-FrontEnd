@@ -33,7 +33,7 @@ export default function DemoAnimatePage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Animate | CreatoorAI</title>
+        <title> Extra Components: Animate | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

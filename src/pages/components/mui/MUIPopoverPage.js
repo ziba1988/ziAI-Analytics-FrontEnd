@@ -67,7 +67,7 @@ export default function MUIPopoverPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Popover | CreatoorAI</title>
+        <title> MUI Components: Popover | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

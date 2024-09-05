@@ -170,7 +170,7 @@ function Description() {
             href={PATH_DASHBOARD.user.new}
             sx={{ borderColor: 'text.primary' }}
           >
-            Customize my Bear
+            Get Started
           </Button>
         </Stack>
       </m.div>

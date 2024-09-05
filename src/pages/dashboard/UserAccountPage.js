@@ -27,12 +27,6 @@ export default function UserAccountPage() {
       component: <AccountGeneral />,
     },
     {
-      value: 'status_of_order',
-      label: 'Status of Order',
-      icon: <Iconify icon="eva:share-fill" />,
-      component: <UserBear />,
-    },
-    {
       value: 'change_password',
       label: 'Change password',
       icon: <Iconify icon="ic:round-vpn-key" />,
@@ -43,7 +37,7 @@ export default function UserAccountPage() {
   return (
     <>
       <Helmet>
-        <title> User: Account Settings | CreatoorAI</title>
+        <title> User: Account Settings | AI-ANALYTICS</title>
       </Helmet>
 
       <Container maxWidth={themeStretch ? false : 'lg'}>

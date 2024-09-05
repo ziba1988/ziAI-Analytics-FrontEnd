@@ -68,7 +68,7 @@ export default function MUIRatingPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Rating | CreatoorAI</title>
+        <title> MUI Components: Rating | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

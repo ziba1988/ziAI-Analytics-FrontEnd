@@ -43,7 +43,7 @@ export default function MUIAccordionPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Accordion | CreatoorAI</title>
+        <title> MUI Components: Accordion | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

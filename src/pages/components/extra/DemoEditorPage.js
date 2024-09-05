@@ -28,7 +28,7 @@ export default function DemoEditorPage() {
   return (
     <>
       <Helmet>
-        <title> Extra Components: Editor | CreatoorAI</title>
+        <title> Extra Components: Editor | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

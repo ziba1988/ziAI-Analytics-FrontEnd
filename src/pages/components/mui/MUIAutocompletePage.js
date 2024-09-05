@@ -33,7 +33,7 @@ export default function MUIAutocompletePage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Autocomplete | CreatoorAI</title>
+        <title> MUI Components: Autocomplete | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

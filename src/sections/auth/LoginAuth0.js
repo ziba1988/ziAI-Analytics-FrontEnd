@@ -38,7 +38,7 @@ export default function LoginAuth0() {
       </Stack>
 
       <Alert severity="info" sx={{ mb: 3 }}>
-        Use email : <strong>demo@creatoor.ai</strong> / password :<strong> demo1234</strong>
+        Use email : <strong>demo@ai-analytics.ai</strong> / password :<strong> demo1234</strong>
       </Alert>
 
       <Button

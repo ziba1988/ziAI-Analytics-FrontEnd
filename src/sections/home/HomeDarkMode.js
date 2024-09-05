@@ -32,14 +32,14 @@ export default function HomeDarkMode() {
       <Container component={MotionViewport}>
         <m.div variants={varFade().inUp}>
           <Typography component="div" variant="overline" sx={{ color: 'primary.main' }}>
-            Easy switch between styles.
+            Easy analyze complex dataset
           </Typography>
         </m.div>
 
         <m.div variants={varFade().inUp}>
           <Stack spacing={2} direction="row" alignItems="center" display="inline-flex">
             <Typography variant="h2" sx={{ my: 3, color: 'common.white' }}>
-              Dark mode
+              Atraction Design
             </Typography>
 
             <IconButton color={themeMode === 'dark' ? 'warning' : 'default'} onClick={onToggleMode}>
@@ -52,7 +52,7 @@ export default function HomeDarkMode() {
 
         <m.div variants={varFade().inUp}>
           <Typography sx={{ color: 'grey.500' }}>
-            A dark theme that feels easier on the eyes.
+            that feels easier on the eyes.
           </Typography>
         </m.div>
 

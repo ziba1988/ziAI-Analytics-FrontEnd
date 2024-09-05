@@ -53,7 +53,7 @@ const navConfig = {
           path: PATH_DASHBOARD.user.root,
           icon: ICONS.user,
           children: [
-            { title: 'generate Music', path: PATH_DASHBOARD.user.new },
+            { title: 'Data Analyze', path: PATH_DASHBOARD.user.new },
             { title: 'your Account', path: PATH_DASHBOARD.user.account },
           ],
         },

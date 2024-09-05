@@ -38,7 +38,7 @@ export default function MUITreesViewPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Tree View | CreatoorAI</title>
+        <title> MUI Components: Tree View | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

@@ -9,7 +9,7 @@ export default function LoginPage() {
   return (
     <>
       <Helmet>
-        <title> Login | CreatoorAI</title>
+        <title> Login | AI-ANALYTICS</title>
       </Helmet>
 
       <Login />

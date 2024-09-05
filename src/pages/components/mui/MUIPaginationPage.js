@@ -44,7 +44,7 @@ export default function MUIPaginationPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Pagination | CreatoorAI</title>
+        <title> MUI Components: Pagination | AI-ANALYTICS</title>
       </Helmet>
 
       <Box

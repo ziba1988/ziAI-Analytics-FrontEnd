@@ -15,7 +15,7 @@ export default function MUIBreadcrumbsPage() {
   return (
     <>
       <Helmet>
-        <title> MUI Components: Breadcrumbs | CreatoorAI</title>
+        <title> MUI Components: Breadcrumbs | AI-ANALYTICS</title>
       </Helmet>
 
       <Box
